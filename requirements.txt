@@ -1,6 +1,6 @@
 colorama==0.4.6
 coverage==7.2.7
-flake8==6.0.0
+flake8==5.0.4
 iniconfig==2.0.0
 mccabe==0.7.0
 packaging==23.1
